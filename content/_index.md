@@ -30,21 +30,5 @@ sections:
     featured_categories:
       - content/category/bigplants.md
       - content/category/cactuses.md
-  - type: testimonials_section
-    section_id: testimonials_section
-    testimonials:
-      - text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
-        author:
-          name: John Dope
-          location: 'Colorado, USA'
-      - text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
-        author:
-          name: Major Payne
-          location: 'VA, USA'
 layout: home
 ---
